@@ -8,4 +8,4 @@ $ cd Dockerfile.vim
 $ make install
 ```
 <br/>
-![docker.vim text highlight](https://github.com/lel99999/dev_DockerVault/blob/main/docker.vim_01.png) <br/>
+![docker.vim text highlight](https://raw.githubusercontent.com/lel99999/dev_DockerVault/main/docker.vim_01.png) <br/>
