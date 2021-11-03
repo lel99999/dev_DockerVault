@@ -7,5 +7,4 @@ $ git clone https://github.com/ekalinin/Dockerfile.vim.git
 $ cd Dockerfile.vim
 $ make install
 ```
-<br/>
 ![docker.vim text highlight](https://raw.githubusercontent.com/lel99999/dev_DockerVault/main/docker.vim_01.png) <br/>
